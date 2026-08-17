@@ -77,6 +77,18 @@ status   operacional
 
 ---
 
+## `$ watch -n 86400 snake`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k19x/k19x/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k19x/k19x/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/k19x/k19x/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
 ## `$ ping k19x`
 
 <div align="center">
